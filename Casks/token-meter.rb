@@ -1,6 +1,6 @@
 cask "token-meter" do
-  version "0.3.5"
-  sha256 "c152d47577c36713d3210a3d4e40c1a65a6bdf1fc5f47a5b3d68bef815ff1367"
+  version "0.3.6"
+  sha256 "9e85d6ad1ad542a1cf00bc3aa7e525d0742572b957b31d19b47c7833317efabc"
 
   url "https://github.com/younghyundev/token-meter/releases/download/v#{version}/TokenMeter-#{version}.zip"
   name "Token Meter"
